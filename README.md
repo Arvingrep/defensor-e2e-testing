@@ -23,7 +23,7 @@ Defensor 一丝不苟的履行着自己的责任，守护着林林总总的产�
 
    > `sudo chown -R $(whoami) $(npm config get prefix)/{lib/node_modules,bin,share}`
 
-3. 安装 Chrome : <https://www.google.com/chrome/>
+3. 安装 Chrome : <https://www.chromedownloads.net/chrome64linux/> 
 
 4. 安装 UI Recorder 及 mocha : `npm install uirecorder mocha -g`
 
